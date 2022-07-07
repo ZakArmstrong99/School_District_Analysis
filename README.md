@@ -12,12 +12,17 @@ The purpose of this analysis was to use collected data on students and schools w
 - This was done by finding the count of tenth through twelvth graders and the count of Thomas High School students passing. Using these counts, updated percentages for math, reading, and overall passing were calculated, which then replaced the values in the school summary data frame
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- After replacing the Thomas High School ninth grade scores, the percent of passing in all catergories increased and made it to the top two schools
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+  - The average math and reading scores of ninth graders was replaced with NaN for Thomas High School 
 - Scores by school spending
+  - The percentages for passing math, passing reading, and overall passing went up for the $631-645 scores.
 - Scores by school size
+  - The percentages for passing math, passing reading, and overall passing went up for medium school sizes.
 - Scores by school type
+  - The percentages for passing math, passing reading, and overall passing went up for charter schools. 
 
 
 ## Summary:
