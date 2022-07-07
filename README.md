@@ -26,3 +26,4 @@ The purpose of this analysis was to use collected data on students and schools w
 
 
 ## Summary:
+Replacing the reading and math scores for ninth graders at Thomas High School led to some changes to the analysis. First off, the math and reading percentages for Thomas High School increased after replacing the values. This is because of the change in student count in relation to the scores from the other grades when calculating the percentages. Since the student count doesn't have ninth graders the percentages increase. This led to changes in the average scores and percentages for scores by school spending, scores by school size, and scores by school type. For all of these, the percentage of overall passing increased changed for the catergory Thomas High School falls into for each table ($631-645, Medium, Charter).
